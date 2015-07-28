@@ -1,4 +1,4 @@
-IIƒTƒ“ƒvƒ‹
+ï¼ï¼ã‚µãƒ³ãƒ—ãƒ«
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
