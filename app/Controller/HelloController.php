@@ -5,9 +5,14 @@
 class HelloController extends AppController
 {    
     /**
-     * index�A�N�V����
+     * indexアクション
      */
     public function index() {
-        $this->set('message', 'Hello World!!!');
+        $this->set('buttonName', 'スロットをまわす！');
+        
+        for($i=0;$i<3;$i++){  
+           $numberArray[$i] = rand(1,9);  
+        }  
+        $this->set('numberArray', $numberArray);
     }
 }
